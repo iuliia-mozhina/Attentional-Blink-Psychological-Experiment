@@ -1,0 +1,9 @@
+Welcome to our experiment!
+
+During this experiment, you will observe a rapid stream of words presented on the screen. The experiment consists of two parts. 
+
+In the first part of the experiment, your task is to report the color of a specific adjective after each trial. 
+
+In the second (and main) part of the experiment, you will see a number of adjectives, as well as the two color words (red/green/blue/yellow) in rapid serial presentation. These color words are the "targets", which color you are to report at the end of each trial. Your task here is to report (1) the color of the first target word, and (2) the color of the second target word.
+
+You can start each trial with a press of the space bar.

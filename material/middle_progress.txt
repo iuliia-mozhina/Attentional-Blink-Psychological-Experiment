@@ -1,0 +1,3 @@
+Now we are ready to start with the main part of the experiment. 
+
+You can start each trial with a press of the space bar.
